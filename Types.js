@@ -1,0 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+let a = 10;
+console.log(a);
+let b = "Sushil";
+console.log(b);
+let c = true;
+console.log(c);
+let d = 10.10;
+console.log(d);

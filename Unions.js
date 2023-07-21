@@ -1,0 +1,10 @@
+"use strict";
+let data = "sk";
+data = 10;
+let info = "NS";
+info = 10;
+let infos = "NS";
+infos = true;
+console.log(data);
+console.log(info);
+console.log(infos);
